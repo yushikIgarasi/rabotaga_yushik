@@ -1,3 +1,9 @@
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+DB_URL = os.getenv("DB_URL")
+SUPPORT_CONTACT = os.getenv("SUPPORT_CONTACT")
+
 import asyncio
 import logging
 import os

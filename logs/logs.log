@@ -3961,3 +3961,198 @@ aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host kwork.
 2025-10-16 12:31:15,928 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:32:15 MSK)" executed successfully
 2025-10-16 12:32:15,149 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:33:15 MSK)" (scheduled at 2025-10-16 12:32:15.144576+03:00)
 2025-10-16 12:32:17,117 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:33:15 MSK)" executed successfully
+2025-10-16 12:33:15,147 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:34:15 MSK)" (scheduled at 2025-10-16 12:33:15.144576+03:00)
+2025-10-16 12:33:18,210 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:34:15 MSK)" executed successfully
+2025-10-16 12:34:15,156 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:35:15 MSK)" (scheduled at 2025-10-16 12:34:15.144576+03:00)
+2025-10-16 12:34:16,016 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:35:15 MSK)" executed successfully
+2025-10-16 12:35:15,154 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:36:15 MSK)" (scheduled at 2025-10-16 12:35:15.144576+03:00)
+2025-10-16 12:35:16,103 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:36:15 MSK)" executed successfully
+2025-10-16 12:36:15,162 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:37:15 MSK)" (scheduled at 2025-10-16 12:36:15.144576+03:00)
+2025-10-16 12:36:16,057 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:37:15 MSK)" executed successfully
+2025-10-16 12:37:15,147 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:38:15 MSK)" (scheduled at 2025-10-16 12:37:15.144576+03:00)
+2025-10-16 12:37:16,089 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:38:15 MSK)" executed successfully
+2025-10-16 12:38:15,161 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:39:15 MSK)" (scheduled at 2025-10-16 12:38:15.144576+03:00)
+2025-10-16 12:38:16,190 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:39:15 MSK)" executed successfully
+2025-10-16 12:39:15,152 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:40:15 MSK)" (scheduled at 2025-10-16 12:39:15.144576+03:00)
+2025-10-16 12:39:16,085 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:40:15 MSK)" executed successfully
+2025-10-16 12:40:15,160 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:41:15 MSK)" (scheduled at 2025-10-16 12:40:15.144576+03:00)
+2025-10-16 12:40:16,065 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:41:15 MSK)" executed successfully
+2025-10-16 12:41:15,158 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:42:15 MSK)" (scheduled at 2025-10-16 12:41:15.144576+03:00)
+2025-10-16 12:41:15,995 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:42:15 MSK)" executed successfully
+2025-10-16 12:42:15,159 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:43:15 MSK)" (scheduled at 2025-10-16 12:42:15.144576+03:00)
+2025-10-16 12:42:16,421 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:43:15 MSK)" executed successfully
+2025-10-16 12:43:15,157 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:44:15 MSK)" (scheduled at 2025-10-16 12:43:15.144576+03:00)
+2025-10-16 12:43:15,965 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:44:15 MSK)" executed successfully
+2025-10-16 12:44:15,161 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:45:15 MSK)" (scheduled at 2025-10-16 12:44:15.144576+03:00)
+2025-10-16 12:44:16,281 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:45:15 MSK)" executed successfully
+2025-10-16 12:45:15,159 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:46:15 MSK)" (scheduled at 2025-10-16 12:45:15.144576+03:00)
+2025-10-16 12:45:16,343 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:46:15 MSK)" executed successfully
+2025-10-16 12:46:15,154 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:47:15 MSK)" (scheduled at 2025-10-16 12:46:15.144576+03:00)
+2025-10-16 12:46:15,928 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:47:15 MSK)" executed successfully
+2025-10-16 12:47:15,159 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:48:15 MSK)" (scheduled at 2025-10-16 12:47:15.144576+03:00)
+2025-10-16 12:47:16,136 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:48:15 MSK)" executed successfully
+2025-10-16 12:48:15,145 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:49:15 MSK)" (scheduled at 2025-10-16 12:48:15.144576+03:00)
+2025-10-16 12:48:15,905 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:49:15 MSK)" executed successfully
+2025-10-16 12:49:15,159 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:50:15 MSK)" (scheduled at 2025-10-16 12:49:15.144576+03:00)
+2025-10-16 12:49:15,979 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:50:15 MSK)" executed successfully
+2025-10-16 12:50:15,154 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:51:15 MSK)" (scheduled at 2025-10-16 12:50:15.144576+03:00)
+2025-10-16 12:50:16,123 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:51:15 MSK)" executed successfully
+2025-10-16 12:51:15,156 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:52:15 MSK)" (scheduled at 2025-10-16 12:51:15.144576+03:00)
+2025-10-16 12:51:16,045 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:52:15 MSK)" executed successfully
+2025-10-16 12:52:15,159 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:53:15 MSK)" (scheduled at 2025-10-16 12:52:15.144576+03:00)
+2025-10-16 12:52:16,095 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:53:15 MSK)" executed successfully
+2025-10-16 12:53:15,147 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:54:15 MSK)" (scheduled at 2025-10-16 12:53:15.144576+03:00)
+2025-10-16 12:53:16,082 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:54:15 MSK)" executed successfully
+2025-10-16 12:54:15,150 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:55:15 MSK)" (scheduled at 2025-10-16 12:54:15.144576+03:00)
+2025-10-16 12:54:16,261 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:55:15 MSK)" executed successfully
+2025-10-16 12:55:15,152 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:56:15 MSK)" (scheduled at 2025-10-16 12:55:15.144576+03:00)
+2025-10-16 12:55:16,393 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:56:15 MSK)" executed successfully
+2025-10-16 12:56:15,150 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:57:15 MSK)" (scheduled at 2025-10-16 12:56:15.144576+03:00)
+2025-10-16 12:56:16,171 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:57:15 MSK)" executed successfully
+2025-10-16 12:57:15,150 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:58:15 MSK)" (scheduled at 2025-10-16 12:57:15.144576+03:00)
+2025-10-16 12:57:15,969 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:58:15 MSK)" executed successfully
+2025-10-16 12:58:15,146 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:59:15 MSK)" (scheduled at 2025-10-16 12:58:15.144576+03:00)
+2025-10-16 12:58:16,077 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 12:59:15 MSK)" executed successfully
+2025-10-16 12:59:15,158 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:00:15 MSK)" (scheduled at 2025-10-16 12:59:15.144576+03:00)
+2025-10-16 12:59:16,226 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:00:15 MSK)" executed successfully
+2025-10-16 13:00:15,158 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:01:15 MSK)" (scheduled at 2025-10-16 13:00:15.144576+03:00)
+2025-10-16 13:00:16,037 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:01:15 MSK)" executed successfully
+2025-10-16 13:01:15,152 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:02:15 MSK)" (scheduled at 2025-10-16 13:01:15.144576+03:00)
+2025-10-16 13:01:16,115 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:02:15 MSK)" executed successfully
+2025-10-16 13:02:15,156 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:03:15 MSK)" (scheduled at 2025-10-16 13:02:15.144576+03:00)
+2025-10-16 13:02:16,213 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:03:15 MSK)" executed successfully
+2025-10-16 13:03:15,147 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:04:15 MSK)" (scheduled at 2025-10-16 13:03:15.144576+03:00)
+2025-10-16 13:03:16,014 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:04:15 MSK)" executed successfully
+2025-10-16 13:04:15,148 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:05:15 MSK)" (scheduled at 2025-10-16 13:04:15.144576+03:00)
+2025-10-16 13:04:16,203 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:05:15 MSK)" executed successfully
+2025-10-16 13:04:52,530 [ERROR] (_listen_updates) Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Сетевая папка недоступна. За информацией о разрешении проблем в сети обратитесь к справочной системе Windows]
+2025-10-16 13:04:52,562 [WARNING] (_listen_updates) Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8413468834)
+2025-10-16 13:05:03,984 [INFO] (_listen_updates) Connection established (tryings = 1, bot id = 8413468834)
+2025-10-16 13:05:15,147 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:06:15 MSK)" (scheduled at 2025-10-16 13:05:15.144576+03:00)
+2025-10-16 13:05:15,937 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:06:15 MSK)" executed successfully
+2025-10-16 13:06:15,197 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:07:15 MSK)" (scheduled at 2025-10-16 13:06:15.144576+03:00)
+2025-10-16 13:06:16,291 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:07:15 MSK)" executed successfully
+2025-10-16 13:07:15,160 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:08:15 MSK)" (scheduled at 2025-10-16 13:07:15.144576+03:00)
+2025-10-16 13:07:16,230 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:08:15 MSK)" executed successfully
+2025-10-16 13:08:15,156 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:09:15 MSK)" (scheduled at 2025-10-16 13:08:15.144576+03:00)
+2025-10-16 13:08:16,278 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:09:15 MSK)" executed successfully
+2025-10-16 13:10:38,767 [ERROR] (_listen_updates) Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-10-16 13:10:39,017 [WARNING] (_listen_updates) Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8413468834)
+2025-10-16 13:10:39,046 [WARNING] (run_coroutine_job) Run time of job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:11:15 MSK)" was missed by 0:00:23.902215
+2025-10-16 13:10:50,573 [INFO] (_listen_updates) Connection established (tryings = 1, bot id = 8413468834)
+2025-10-16 13:11:15,148 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:12:15 MSK)" (scheduled at 2025-10-16 13:11:15.144576+03:00)
+2025-10-16 13:11:16,224 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:12:15 MSK)" executed successfully
+2025-10-16 13:12:15,156 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:13:15 MSK)" (scheduled at 2025-10-16 13:12:15.144576+03:00)
+2025-10-16 13:12:16,515 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:13:15 MSK)" executed successfully
+2025-10-16 13:13:15,156 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:14:15 MSK)" (scheduled at 2025-10-16 13:13:15.144576+03:00)
+2025-10-16 13:13:17,096 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:14:15 MSK)" executed successfully
+2025-10-16 13:14:15,148 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:15:15 MSK)" (scheduled at 2025-10-16 13:14:15.144576+03:00)
+2025-10-16 13:14:16,147 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:15:15 MSK)" executed successfully
+2025-10-16 13:15:15,154 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:16:15 MSK)" (scheduled at 2025-10-16 13:15:15.144576+03:00)
+2025-10-16 13:15:15,988 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:16:15 MSK)" executed successfully
+2025-10-16 13:16:15,149 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:17:15 MSK)" (scheduled at 2025-10-16 13:16:15.144576+03:00)
+2025-10-16 13:16:16,113 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:17:15 MSK)" executed successfully
+2025-10-16 13:17:15,161 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:18:15 MSK)" (scheduled at 2025-10-16 13:17:15.144576+03:00)
+2025-10-16 13:17:15,977 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:18:15 MSK)" executed successfully
+2025-10-16 13:18:15,156 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:19:15 MSK)" (scheduled at 2025-10-16 13:18:15.144576+03:00)
+2025-10-16 13:18:16,637 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:19:15 MSK)" executed successfully
+2025-10-16 13:19:15,152 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:20:15 MSK)" (scheduled at 2025-10-16 13:19:15.144576+03:00)
+2025-10-16 13:19:15,858 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:20:15 MSK)" executed successfully
+2025-10-16 13:20:15,156 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:21:15 MSK)" (scheduled at 2025-10-16 13:20:15.144576+03:00)
+2025-10-16 13:20:16,383 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:21:15 MSK)" executed successfully
+2025-10-16 13:21:15,158 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:22:15 MSK)" (scheduled at 2025-10-16 13:21:15.144576+03:00)
+2025-10-16 13:21:16,064 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:22:15 MSK)" executed successfully
+2025-10-16 13:21:58,291 [INFO] (start) Scheduler started
+2025-10-16 13:21:58,941 [INFO] (start_polling) Start polling
+2025-10-16 13:21:59,070 [INFO] (_polling) Run polling for bot @rabota_Yushika_Bot id=8413468834 - 'Юшик работяга'
+2025-10-16 13:21:59,176 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:21:59,176 [WARNING] (_listen_updates) Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8413468834)
+2025-10-16 13:22:03,372 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:03,372 [WARNING] (_listen_updates) Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8413468834)
+2025-10-16 13:22:04,520 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:04,520 [WARNING] (_listen_updates) Sleep for 1.388321 seconds and try again... (tryings = 1, bot id = 8413468834)
+2025-10-16 13:22:09,098 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:09,099 [WARNING] (_listen_updates) Sleep for 1.301084 seconds and try again... (tryings = 1, bot id = 8413468834)
+2025-10-16 13:22:10,567 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:10,568 [WARNING] (_listen_updates) Sleep for 1.812682 seconds and try again... (tryings = 2, bot id = 8413468834)
+2025-10-16 13:22:15,148 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:23:15 MSK)" (scheduled at 2025-10-16 13:22:15.144576+03:00)
+2025-10-16 13:22:15,482 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:15,482 [WARNING] (_listen_updates) Sleep for 1.624166 seconds and try again... (tryings = 2, bot id = 8413468834)
+2025-10-16 13:22:16,178 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:23:15 MSK)" executed successfully
+2025-10-16 13:22:17,224 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:17,225 [WARNING] (_listen_updates) Sleep for 2.496185 seconds and try again... (tryings = 3, bot id = 8413468834)
+2025-10-16 13:22:22,890 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:22,891 [WARNING] (_listen_updates) Sleep for 2.011130 seconds and try again... (tryings = 3, bot id = 8413468834)
+2025-10-16 13:22:24,980 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:24,981 [WARNING] (_listen_updates) Sleep for 3.149774 seconds and try again... (tryings = 4, bot id = 8413468834)
+2025-10-16 13:22:28,250 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:28,250 [WARNING] (_listen_updates) Sleep for 2.625451 seconds and try again... (tryings = 4, bot id = 8413468834)
+2025-10-16 13:22:34,018 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:34,018 [WARNING] (_listen_updates) Sleep for 4.063310 seconds and try again... (tryings = 5, bot id = 8413468834)
+2025-10-16 13:22:38,162 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:38,162 [WARNING] (_listen_updates) Sleep for 3.538674 seconds and try again... (tryings = 5, bot id = 8413468834)
+2025-10-16 13:22:41,967 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:41,968 [WARNING] (_listen_updates) Sleep for 4.896092 seconds and try again... (tryings = 6, bot id = 8413468834)
+2025-10-16 13:22:46,943 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:46,944 [WARNING] (_listen_updates) Sleep for 4.456601 seconds and try again... (tryings = 6, bot id = 8413468834)
+2025-10-16 13:22:51,491 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:51,491 [WARNING] (_listen_updates) Sleep for 4.950036 seconds and try again... (tryings = 7, bot id = 8413468834)
+2025-10-16 13:22:56,530 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:22:56,531 [WARNING] (_listen_updates) Sleep for 5.193790 seconds and try again... (tryings = 7, bot id = 8413468834)
+2025-10-16 13:23:01,810 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:01,810 [WARNING] (_listen_updates) Sleep for 5.168163 seconds and try again... (tryings = 8, bot id = 8413468834)
+2025-10-16 13:23:07,176 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:07,181 [WARNING] (_listen_updates) Sleep for 5.164543 seconds and try again... (tryings = 8, bot id = 8413468834)
+2025-10-16 13:23:12,459 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:12,459 [WARNING] (_listen_updates) Sleep for 5.123101 seconds and try again... (tryings = 9, bot id = 8413468834)
+2025-10-16 13:23:15,152 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:24:15 MSK)" (scheduled at 2025-10-16 13:23:15.144576+03:00)
+2025-10-16 13:23:16,037 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:24:15 MSK)" executed successfully
+2025-10-16 13:23:17,725 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:17,726 [WARNING] (_listen_updates) Sleep for 5.210744 seconds and try again... (tryings = 9, bot id = 8413468834)
+2025-10-16 13:23:23,036 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:23,036 [WARNING] (_listen_updates) Sleep for 4.997529 seconds and try again... (tryings = 10, bot id = 8413468834)
+2025-10-16 13:23:28,130 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:28,131 [WARNING] (_listen_updates) Sleep for 4.841080 seconds and try again... (tryings = 10, bot id = 8413468834)
+2025-10-16 13:23:33,092 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:33,092 [WARNING] (_listen_updates) Sleep for 4.968932 seconds and try again... (tryings = 11, bot id = 8413468834)
+2025-10-16 13:23:38,157 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:38,157 [WARNING] (_listen_updates) Sleep for 4.917223 seconds and try again... (tryings = 11, bot id = 8413468834)
+2025-10-16 13:23:43,185 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:43,186 [WARNING] (_listen_updates) Sleep for 4.900241 seconds and try again... (tryings = 12, bot id = 8413468834)
+2025-10-16 13:23:48,167 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:48,167 [WARNING] (_listen_updates) Sleep for 4.976815 seconds and try again... (tryings = 12, bot id = 8413468834)
+2025-10-16 13:23:53,239 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:53,240 [WARNING] (_listen_updates) Sleep for 4.955378 seconds and try again... (tryings = 13, bot id = 8413468834)
+2025-10-16 13:23:58,537 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:23:58,538 [WARNING] (_listen_updates) Sleep for 4.946992 seconds and try again... (tryings = 13, bot id = 8413468834)
+2025-10-16 13:24:03,602 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:03,602 [WARNING] (_listen_updates) Sleep for 5.117576 seconds and try again... (tryings = 14, bot id = 8413468834)
+2025-10-16 13:24:08,889 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:08,890 [WARNING] (_listen_updates) Sleep for 5.007083 seconds and try again... (tryings = 14, bot id = 8413468834)
+2025-10-16 13:24:14,138 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:14,138 [WARNING] (_listen_updates) Sleep for 4.978707 seconds and try again... (tryings = 15, bot id = 8413468834)
+2025-10-16 13:24:15,150 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:25:15 MSK)" (scheduled at 2025-10-16 13:24:15.144576+03:00)
+2025-10-16 13:24:16,939 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:25:15 MSK)" executed successfully
+2025-10-16 13:24:19,287 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:19,287 [WARNING] (_listen_updates) Sleep for 5.156367 seconds and try again... (tryings = 15, bot id = 8413468834)
+2025-10-16 13:24:24,583 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:24,584 [WARNING] (_listen_updates) Sleep for 5.102027 seconds and try again... (tryings = 16, bot id = 8413468834)
+2025-10-16 13:24:29,788 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:29,789 [WARNING] (_listen_updates) Sleep for 4.957309 seconds and try again... (tryings = 16, bot id = 8413468834)
+2025-10-16 13:24:34,849 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:34,850 [WARNING] (_listen_updates) Sleep for 5.001462 seconds and try again... (tryings = 17, bot id = 8413468834)
+2025-10-16 13:24:39,976 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:39,976 [WARNING] (_listen_updates) Sleep for 4.985519 seconds and try again... (tryings = 17, bot id = 8413468834)
+2025-10-16 13:24:45,070 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:45,071 [WARNING] (_listen_updates) Sleep for 4.940533 seconds and try again... (tryings = 18, bot id = 8413468834)
+2025-10-16 13:24:50,097 [ERROR] (_listen_updates) Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-10-16 13:24:50,099 [WARNING] (_listen_updates) Sleep for 5.056325 seconds and try again... (tryings = 18, bot id = 8413468834)
+2025-10-16 13:25:00,307 [INFO] (_listen_updates) Connection established (tryings = 19, bot id = 8413468834)
+2025-10-16 13:25:15,152 [INFO] (run_coroutine_job) Running job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:26:15 MSK)" (scheduled at 2025-10-16 13:25:15.144576+03:00)
+2025-10-16 13:25:16,102 [INFO] (run_coroutine_job) Job "projects_tracking (trigger: interval[0:01:00], next run at: 2025-10-16 13:26:15 MSK)" executed successfully
+2025-10-16 13:26:55,060 [INFO] (start) Scheduler started
+2025-10-16 13:26:55,608 [INFO] (start_polling) Start polling
+2025-10-16 13:26:55,712 [INFO] (_polling) Run polling for bot @rabota_Yushika_Bot id=8413468834 - 'Юшик работяга'
+2025-10-16 13:28:55,218 [INFO] (start_polling) Polling stopped
+2025-10-16 13:28:55,220 [INFO] (shutdown) Scheduler has been shut down
+2025-10-16 13:28:55,477 [INFO] (_polling) Polling stopped for bot @rabota_Yushika_Bot id=8413468834 - 'Юшик работяга'
