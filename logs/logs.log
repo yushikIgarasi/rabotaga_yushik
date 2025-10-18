@@ -4156,3 +4156,6 @@ aiohttp.client_exceptions.ClientConnectorDNSError: Cannot connect to host kwork.
 2025-10-16 13:28:55,218 [INFO] (start_polling) Polling stopped
 2025-10-16 13:28:55,220 [INFO] (shutdown) Scheduler has been shut down
 2025-10-16 13:28:55,477 [INFO] (_polling) Polling stopped for bot @rabota_Yushika_Bot id=8413468834 - 'Юшик работяга'
+2025-10-16 13:38:21,307 [INFO] (start) Scheduler started
+2025-10-16 13:38:21,916 [INFO] (start_polling) Start polling
+2025-10-16 13:38:22,060 [INFO] (_polling) Run polling for bot @rabota_Yushika_Bot id=8413468834 - 'Юшик работяга'
