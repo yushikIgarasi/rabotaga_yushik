@@ -1,1 +1,1 @@
-# Основные компоненты бота и фреймворкиaiogramSQLAlchemypython-dotenvapschedulerasyncpg  <-- ДОБАВЬ ЭТУ СТРОКУ# Компоненты для работы с Kwork и интернетом (если используются)requests beautifulsoup4 # Компоненты для работы с БД PostgreSQLpsycopg2-binary==2.9.11# Системныеpip==25.2
+# Основные фреймворки ботаaiogramapschedulerpydantic-settings python-dotenv# Компоненты для работы с БД (PostgreSQL)SQLAlchemypsycopg2-binary==2.9.11asyncpg # Компоненты для работы с сетью/парсингом (если используешь)requests beautifulsoup4
